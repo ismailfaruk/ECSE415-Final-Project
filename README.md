@@ -2,5 +2,5 @@
 
 ## Authors
 * [**Ismail Faruk**](https://github.com/ismailfaruk)
-* [**Xirui Zhang**]
+* [**Xirui Zhang**](https://github.com/XiruiZhang)
 * [**Sameen Mahtab**](https://github.com/SameenMahtab)
