@@ -1,1 +1,6 @@
-# ECSE415-Final-Project
+# [ECSE415-Final-Project] (https://www.mcgill.ca/study/2020-2021/courses/ecse-415)
+
+## Authors
+* [**Ismail Faruk**](https://github.com/ismailfaruk)
+* [**Xirui Zhang**]
+* [**Sameen Mahtab**](https://github.com/SameenMahtab)
